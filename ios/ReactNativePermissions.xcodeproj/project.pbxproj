@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		669582121FE441A8008596CD /* RNPPhoto.m in Sources */ = {isa = PBXBuildFile; fileRef = 669582031FE441A7008596CD /* RNPPhoto.m */; };
+		669581F71FE4416B008596CD /* RCTConvert+RNPStatus.m in Sources */ = {isa = PBXBuildFile; fileRef = 669581F41FE4416B008596CD /* RCTConvert+RNPStatus.m */; };
+		669581F81FE4416B008596CD /* ReactNativePermissions.m in Sources */ = {isa = PBXBuildFile; fileRef = 669581F51FE4416B008596CD /* ReactNativePermissions.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,6 +25,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		669581F31FE4416B008596CD /* ReactNativePermissions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ReactNativePermissions.h; sourceTree = "<group>"; };
+		669581F41FE4416B008596CD /* RCTConvert+RNPStatus.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "RCTConvert+RNPStatus.m"; sourceTree = "<group>"; };
 		669581FC1FE441A7008596CD /* RNPPhoto.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RNPPhoto.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
